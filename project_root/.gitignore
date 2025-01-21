@@ -1,5 +1,5 @@
 # Ignore virtual environment folder located outside the project
-../../venv/
+../venv/
 
 # Python bytecode files
 *.pyc
