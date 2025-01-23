@@ -1,0 +1,16 @@
+**/__pycache__
+**/.pytest_cache
+**/.coverage
+.git
+.gitignore
+.env
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+terraform/
+ansible/
+README.md
