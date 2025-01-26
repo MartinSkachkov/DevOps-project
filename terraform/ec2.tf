@@ -45,6 +45,8 @@ resource "aws_instance" "web_server" {
   security_groups = [aws_security_group.allow_http.name]
   associate_public_ip_address = true
 
+  key_name = "putty-console"
+  
   tags = {
     Name = "FastAPI-App-Server"
   }
