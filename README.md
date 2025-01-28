@@ -121,6 +121,8 @@ The Ansible playbook (`playbook.yml`) handles:
 
 Here are some resources that helped me learn and develop this project.
 
+- [Course Labs](https://github.com/varadinov/devops_101_labs)
+
 ### FastAPI
 
 - [Python FastAPI Tutorial](https://www.youtube.com/watch?v=iWS9ogMPOI0)
